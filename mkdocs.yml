@@ -1,0 +1,6 @@
+site_name: Windy's Hideout
+site_url: https://WindyLibra.github.io/mkdocs-website
+theme:
+  name: material
+site_author: David Makaryan
+copyright: David Makaryan, WindyLibra, 2024
